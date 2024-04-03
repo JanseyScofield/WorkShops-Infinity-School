@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <section>
+            <img src="img/user_img.svg" alt="Imagem Usúario">
+            <nav>
+                <ul>
+                    <li><a href"">Home</a></li>
+                    <li><a href"">GitHub</a></li>
+                    <li><a href"">LinkedIn</a></li>
+                    <li><a href"">Instagram</a></li>
+                </ul>
+                <img src="img/button_search.svg" alt="Imagem do botão">
+            </nav>
+        </section>
+    </header>
+    <main>
+        <section>
+            <div>
+            <h3>WorkShop</h3>
+            <h1>Página Estática com HTML e CSS</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit dolores debitis asperiores iusto, ab sit voluptatum quos sequi cumque est atque iste fuga quam sapiente.Aut reprehenderit tenetur doloremque vel!</p>
+            </div>
+            <div>
+                <img src="img/student_programming.svg" alt="Estudante de programação">
+            </div>
+        </section>
+        <section>
+            <div><h3>HTML</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, dolorem! Vel, aliquid ipsa eveniet libero voluptate provident quo reprehenderit doloremque officiis tempora iste iusto molestias, error sapiente voluptatibus expedita assumenda.</p>
+            </div>
+            <div><h3>CSS</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam odit aut, similique accusantium vero assumenda cupiditate officia iste tempora? Consectetur voluptatum mollitia sunt molestiae dolorum fugiat eius perferendis incidunt est.</p>
+            </div>
+            <div><h3>JAVASCRIPT</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolores dicta officia porro expedita voluptas illo quam ipsum magni praesentium, labore qui ipsa, consequatur nemo! Vero sunt dolorum placeat aperiam.      
+            </p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>Copywright &copy;: Jansey Scofield</p>
+    </footer>
+</body>
+</html>
