@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Poppins;
+    color:#ffff;
+    background-color: #000;
+}
+.cabecalho-navegacao{
+    display: flex;
+    gap: 420px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+.lista{
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+}
+.item-lista a{
+    text-decoration: none;
+    font-size: small;
+}
+
+.conteudo-principal-primario{
+    display: flex;
+    gap: 300px;
+    margin-left: 100px;
+}
+.conteudo-div{
+    text-align: justify;
+    margin-top: -60px;
+}
+.conteudo-principal-h3{
+    color:#778e2c;
+   margin-bottom: 10px;
+   font-size: 25px;
+}
+.conteudo-principal-h1{
+    font-size: 50px;
+    letter-spacing:-1px;
+}
+.conteudo-principal-p{
+    text-align: justify;
+    font-size: 15px;
+}
+.conteudo-principal-img{
+   margin-top: -90px;
+   max-width: 350px;
+}
+.conteudo-principal-box{
+    display:flex;
+    gap: 100px;
+    padding: 50px 100px 100px 100px;
+}
+.paragrafo-box{
+    background-color: #fff;
+    width: 300px;
+    height: 150px;
+    border-radius: 50px;
+    border: 5px solid yellow;
+}
+
+.rodape{
+    text-align: center;
+}
